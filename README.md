@@ -1,0 +1,9 @@
+-- Staging integration marker.
+-- Run the numbered EarnLink migrations in order:
+-- 001_core.sql
+-- 002_indexes_constraints.sql
+-- 003_withdrawals.sql
+-- 004_collaboration_trust.sql
+-- 005_submission_files.sql
+-- 006_payment_reconciliation.sql
+-- 007_verification_security.sql
